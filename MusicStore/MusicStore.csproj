@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AlbumSubmit.html" />
+    <Content Include="Confirm.html" />
     <Content Include="Index.html" />
     <Content Include="Styles\bootstrap\bootstrap-theme.css.map" />
     <Content Include="Styles\bootstrap\bootstrap.css.map" />
